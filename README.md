@@ -9,3 +9,6 @@ This is a standalone script. Just source this script into your `~/.gdbinit`
 ```
 source <path-to-the-script>
 ```
+## See the packet on Wireshark
+* Copy the output into a file.
+* Import the file in Wireshark with **File**>**Import from Hex Dump...**
